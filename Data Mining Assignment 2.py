@@ -9,7 +9,7 @@ Created on Mon Oct 23 21:44:34 2023
 'STEP 1A IMPORT THE DATA'
 
 import pandas as pd
-data = pd.read_csv("/Users/patrickdaravong/Downloads/assg2_car - groupD.csv")
+data = pd.read_csv("/Users/patrickdaravong/Downloads/Car_Data.csv")
 
 "Using data.info we can check for what the null values are"
 data.info()
